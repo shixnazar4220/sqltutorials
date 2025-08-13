@@ -1,0 +1,1 @@
+"Salo mening birinchi pushim" 
