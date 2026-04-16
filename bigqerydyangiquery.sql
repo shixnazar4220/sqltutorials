@@ -1,0 +1,1 @@
+select "bu bigqueryda turgan data";
